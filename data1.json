@@ -222,7 +222,7 @@
             "name": "rooftop",
             "c1": "11",
             "story": "You are at the rooftop .You want to unwind with you family",
-            "nav": "Press 1 to go to the staircase"
+            "nav": "Press 1 to go to the staircase",
             "die": "0",
             "win": "0",
             "stranger": "0"
